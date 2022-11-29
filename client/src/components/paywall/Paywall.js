@@ -39,8 +39,8 @@ function Paywall() {
   };
 
   const fetchInvoice = async () => {
-    const apiKey = "bc450881c4db44b69db6947179ac427d";
-    const data = `{"out": false, "amount": 5, "memo": "Lightning rocks", "unit": "sat", "webhook": "", "internal": false}`;
+    const apiKey = "6d7b331b1fc847cd9d42bfb63593bdde";
+    const data = `{"out": false, "amount": 5, "memo": "Lightning lets get it", "unit": "sat", "webhook": "", "internal": false}`;
     const getInvoice = {
       method: "POST",
       headers: { "content-type": "application/json", "X-Api-Key": apiKey },

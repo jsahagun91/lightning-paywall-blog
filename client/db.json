@@ -17,6 +17,12 @@
       "postText": "testing",
       "paywall": true,
       "id": 3
+    },
+    {
+      "title": "test 2",
+      "postText": "hello",
+      "paywall": true,
+      "id": 4
     }
   ]
 }
